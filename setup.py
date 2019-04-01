@@ -1,4 +1,4 @@
-ensurepip
+#ensurepip
 
 #try the following if ensurepip is not sufficient
 #ensurepip --upgrade
